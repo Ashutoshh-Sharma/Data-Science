@@ -1,0 +1,12 @@
+1. coulmn ,rows?
+2. what type of?
+3. missing data?
+
+info() 
+method
+
+1. numbers of rows and columns
+2. column name
+3. int64 float64 objects
+4. non null counts
+5. memory usage of the dataframe
