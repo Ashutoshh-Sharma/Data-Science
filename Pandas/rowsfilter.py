@@ -19,3 +19,4 @@ print(df[(df["age"] > 30) & (df["salary"] < 70000)])
 
 print("\nMultiple conditions with OR: Filtering rows where age is less than 30 or salary is greater than 60000:")
 print(df[(df["age"] < 30) | (df["salary"] > 60000)])
+

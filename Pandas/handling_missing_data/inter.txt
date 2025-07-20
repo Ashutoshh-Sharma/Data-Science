@@ -1,0 +1,17 @@
+interpolation --- basically used to put a estimated values on null places
+
+for e.g.
+10
+20
+    -- interpolation can fill this place from 30 
+40
+50
+
+linera
+polynomial
+
+1. preserve data integrity
+2. smooth trends
+3. avoid data loss
+
+interpolate()
